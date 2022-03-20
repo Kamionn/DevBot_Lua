@@ -1,5 +1,5 @@
 # DevBot_Lua
-Discord Bot lua with discordia
+Discord Bot lua with discordia and livit
 KamDev : [Discord](https://discord.gg/wrWeg8Xssg)
 
 # Preview
